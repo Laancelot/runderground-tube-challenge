@@ -18,7 +18,7 @@ Equipment
 
 You can only use the subway, your legs and other public transportation means (RER, overground, tram, bus) to move around the city: no cab, no car, no skateboard, no roller blades, no bike, no hitch-hiking. Crutches are accepted if you have a good reason to have them with you (but then, you should probably not be doing this).
 
-My goal for this project is, ideally, to create an app (that's the interface) that is able to do the following things, for both cities:
+My goal for this project is, **ideally**, to create an app (that's the interface) that is able to do the following things, for both cities:
 
 - tell me the path to take that is the fastest, including where to start
 - ideally be able to do this calculation at any given moment (i.e. in real-time)
